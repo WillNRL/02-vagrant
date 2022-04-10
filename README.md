@@ -1,6 +1,8 @@
 # Vagrant
 
-Exercícios práticos o capítulo de Vagrant.
+Exercícios práticos o capítulo de Vagrant. 
+
+## RESOLVIDO
 
 ## 01 - Webserver
 
