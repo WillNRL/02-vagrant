@@ -2,7 +2,7 @@
 
 Exercícios práticos o capítulo de Vagrant. 
 
-## RESOLVIDO
+## RESOLVIDO lol
 
 ## 01 - Webserver
 
